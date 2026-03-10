@@ -60,5 +60,3 @@ Para facilitar la lectura, el proyecto genera:
 El análisis permite concluir qué tienda presenta indicadores de bajo rendimiento (baja calificación + bajo ingreso), proporcionando al Sr. Juan una recomendación respaldada por evidencia estadística y visual.
 
 ---
-
-### ¿Te gustaría que te ayude a crear una sección de "Posibles problemas y soluciones" para este README por si alguien tiene problemas cargando las URLs de los CSV?
